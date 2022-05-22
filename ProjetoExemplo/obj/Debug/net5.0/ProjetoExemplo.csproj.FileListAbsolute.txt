@@ -1,0 +1,16 @@
+D:\projeto\video-pipe\repo1\ProjetoExemplo\bin\Debug\net5.0\ProjetoExemplo.exe
+D:\projeto\video-pipe\repo1\ProjetoExemplo\bin\Debug\net5.0\ProjetoExemplo.deps.json
+D:\projeto\video-pipe\repo1\ProjetoExemplo\bin\Debug\net5.0\ProjetoExemplo.runtimeconfig.json
+D:\projeto\video-pipe\repo1\ProjetoExemplo\bin\Debug\net5.0\ProjetoExemplo.runtimeconfig.dev.json
+D:\projeto\video-pipe\repo1\ProjetoExemplo\bin\Debug\net5.0\ProjetoExemplo.dll
+D:\projeto\video-pipe\repo1\ProjetoExemplo\bin\Debug\net5.0\ref\ProjetoExemplo.dll
+D:\projeto\video-pipe\repo1\ProjetoExemplo\bin\Debug\net5.0\ProjetoExemplo.pdb
+D:\projeto\video-pipe\repo1\ProjetoExemplo\obj\Debug\net5.0\ProjetoExemplo.csprojAssemblyReference.cache
+D:\projeto\video-pipe\repo1\ProjetoExemplo\obj\Debug\net5.0\ProjetoExemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\projeto\video-pipe\repo1\ProjetoExemplo\obj\Debug\net5.0\ProjetoExemplo.AssemblyInfoInputs.cache
+D:\projeto\video-pipe\repo1\ProjetoExemplo\obj\Debug\net5.0\ProjetoExemplo.AssemblyInfo.cs
+D:\projeto\video-pipe\repo1\ProjetoExemplo\obj\Debug\net5.0\ProjetoExemplo.csproj.CoreCompileInputs.cache
+D:\projeto\video-pipe\repo1\ProjetoExemplo\obj\Debug\net5.0\ProjetoExemplo.dll
+D:\projeto\video-pipe\repo1\ProjetoExemplo\obj\Debug\net5.0\ref\ProjetoExemplo.dll
+D:\projeto\video-pipe\repo1\ProjetoExemplo\obj\Debug\net5.0\ProjetoExemplo.pdb
+D:\projeto\video-pipe\repo1\ProjetoExemplo\obj\Debug\net5.0\ProjetoExemplo.genruntimeconfig.cache
